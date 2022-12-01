@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(34, 33, 33);
+    font-family:system-ui, 'Open Sans';
+    font-weight: lighter;
+    color: white;
+}
+.div-1{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    background-color: #313030;
+    box-shadow: 0 0 1em black;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+}
+.button {
+    background-color: black;
+    height: 40px;
+    width: 180px;
+    border: none;
+    color: white;
+    font-size: larger;
+    font-weight: lighter;
+    border-radius: 10px;
+    box-shadow: 0 0 1em rgb(255, 247, 172);
+}

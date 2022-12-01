@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(0deg, rgba(39,56,125,1) 0%, #111e45 0%, rgba(0,0,0,1) 100%);
+    background-attachment: fixed;
+}
+h1{
+    color: white;
+}
